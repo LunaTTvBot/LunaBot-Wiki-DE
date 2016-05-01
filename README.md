@@ -4,4 +4,4 @@
 
 English Wiki can be found here:  
 Die Englische Wiki ist unter folgendem Link erreichbar:  
-[Wiki DE](https://github.com/SuNflOw1991/iBot-Wiki-EN/wiki)
+[Wiki EN](https://github.com/SuNflOw1991/iBot-Wiki-EN/wiki)
